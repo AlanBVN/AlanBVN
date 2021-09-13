@@ -8,7 +8,7 @@
 
 ---
 
-Welcome to my profile! I'm 26 years old <b>Full Stack Developer</b> looking forward for new challenges 💻
+Welcome to my profile! I'm a 26 years old <b>Full Stack Developer</b> looking forward for new challenges 💻
 
 ---
 
