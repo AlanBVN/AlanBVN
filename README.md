@@ -67,7 +67,7 @@ This was my individual project in Henry's bootcamp. I developed this application
 - SCRUM
 - Teamwork
 - Proactive person
-- autodidact
-- communicative
+- Autodidact
+- Communicative
 
 
