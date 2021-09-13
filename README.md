@@ -55,7 +55,8 @@ This was my individual project in Henry's bootcamp. I developed this application
 
 ---
 
-<h2> Contact </h2>
+<h2> 📧
+ Contact </h2>
 <p>
     <a href="https://www.linkedin.com/in/alan-bilvinas/">
       <img src='https://www.ckmperu.com/wp-content/uploads/2016/10/linkedin-logo.png' alt='linkedin' height='60'>
