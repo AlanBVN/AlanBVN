@@ -68,5 +68,4 @@ This was my individual project in Henry's bootcamp. I developed this application
       <img src='https://dise-in.com/wp-content/uploads/2018/11/whatsapp-logo-png-hd-2.png' alt='whatsapp' height='60'>
     </a>
 </p>
-
- <p align="center"> <h3>Email: <b>alaan567@gmail.com</b> </h3> </p>
+<h3 align="center">Email: <b>alaan567@gmail.com</b></h3>
