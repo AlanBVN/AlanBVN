@@ -1,7 +1,7 @@
 ## Tech Skills
 
 <p align="center">
-<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/logos.png"/>
+<img src="https://i.imgur.com/szZJrEU.png"/>
 </p>
 
 ---
