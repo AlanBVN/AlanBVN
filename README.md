@@ -28,7 +28,7 @@ Welcome to my profile! I'm a 26 years old <b>Full Stack Developer</b> looking fo
 
 ---
 
-## Projects 
+## 🤖 Projects 
 
 ---
 ### theGumers
