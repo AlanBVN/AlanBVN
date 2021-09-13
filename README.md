@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center">Hi there, i am Alan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
+<h2>Hi there, i am Alan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
 
 ---
 
@@ -12,8 +12,8 @@ Welcome to my profile! I'm a 26 years old <b>Full Stack Developer</b> looking fo
 
 ---
 
-<h2 align="center"> Contact </h2>
-<p align="center">
+<h2> Contact </h2>
+<p>
     <a href="https://www.linkedin.com/in/alan-bilvinas/">
       <img src='https://www.ckmperu.com/wp-content/uploads/2016/10/linkedin-logo.png' alt='linkedin' height='60'>
     </a>
@@ -24,7 +24,7 @@ Welcome to my profile! I'm a 26 years old <b>Full Stack Developer</b> looking fo
       <img src='https://dise-in.com/wp-content/uploads/2018/11/whatsapp-logo-png-hd-2.png' alt='whatsapp' height='60'>
     </a>
 </p>
-<h3 align="center"> ⚡ Email: alaan567@gmail.com</h3>
+<h3> ⚡ Email: alaan567@gmail.com</h3>
 
 ---
 
