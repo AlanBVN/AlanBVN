@@ -69,4 +69,4 @@ This was my individual project in Henry's bootcamp. I developed this application
     </a>
 </p>
 
- <p align="center"> **Email:** alaan567@gmail.com </p>
+ <p align="center"> <h3>Email: <b>alaan567@gmail.com</b> </h3> </p>
