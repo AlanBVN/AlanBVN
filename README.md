@@ -9,6 +9,7 @@
 
 <h4>Welcome to my profile! I'm a 26 years old <b>Full Stack Developer</b> looking forward for new challenges 💻</h4>
 
+---
 
 ## 🤖 Projects 
 
