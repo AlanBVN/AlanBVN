@@ -55,8 +55,8 @@ This was my individual project in Henry's bootcamp. I developed this application
 - communicative
 
 ---
-## Contact 
 
+<h2 align="center"> Contact </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/alan-bilvinas/">
       <img src='https://www.ckmperu.com/wp-content/uploads/2016/10/linkedin-logo.png' alt='linkedin' height='60'>
@@ -67,5 +67,6 @@ This was my individual project in Henry's bootcamp. I developed this application
     <a href="https://api.whatsapp.com/send?phone=5491141448742">
       <img src='https://dise-in.com/wp-content/uploads/2018/11/whatsapp-logo-png-hd-2.png' alt='whatsapp' height='60'>
     </a>
-  **Email:** alaan567@gmail.com
 </p>
+
+ <p align="center"> **Email:** alaan567@gmail.com </p>
