@@ -7,7 +7,7 @@
 <h2>Hi there, i am Alan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
 
 
-<h4>Welcome to my profile! I'm a 26 years old <b>Full Stack Developer</b> looking forward for new challenges 💻</h4>
+<h4>Welcome to my profile! I'm a 26 years old full stack developer looking to grow professionally and acquire more experience and knowledge. And I enjoy learning new technologies and working on problem solving. 💻</h4>
 
 ---
 
