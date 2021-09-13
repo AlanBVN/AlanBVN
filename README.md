@@ -69,4 +69,3 @@ This was my individual project in Henry's bootcamp. I developed this application
 </p>
 <h3> 📧 Email: alaan567@gmail.com</h3>
 
----
