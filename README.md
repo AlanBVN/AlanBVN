@@ -45,9 +45,10 @@ This was my group project in Henry's bootcamp.
 <p align="center">
 <img align="center" src="https://i.imgur.com/WJRxv5q.png" width="45%"/>
 <img align="center" src="https://i.imgur.com/Wu90Kia.png" width="45%"/>
-    
 <img align="center" src="https://i.imgur.com/4cH9qi1.png" width="45%"/>
 <img align="center" src="https://i.imgur.com/jTV8gBs.png" width="45%"/>
+<img align="center" src="https://i.imgur.com/pCC9dkx.png" width="45%"/>
+    
 </p>
 
 #### Repository link [here](https://github.com/Simon834/Makelaar)
