@@ -43,10 +43,10 @@ This was my group project in Henry's bootcamp.
 
 
 <p align="center">
-<img align="center" src="https://i.imgur.com/sp42Cds.jpg" width="100%" height="45%"/>
-<img align="center" src="https://i.imgur.com/wfVAeXp.png" width="100%" height="45%" />
-<img align="center" src="https://i.imgur.com/oNkh8Gi.png" width="100%" height="45%" />
-<img align="center" src="https://i.imgur.com/s3uV0BP.png" width="100%" height="45%" />
+<img align="center" src="https://i.imgur.com/WJRxv5q.png" width="45%"/>
+<img align="center" src="https://i.imgur.com/Wu90Kia.png" width="45%"/>
+<img align="center" src="https://i.imgur.com/4cH9qi1.png" width="45%"/>
+<img align="center" src="https://i.imgur.com/jTV8gBs.png" width="45%"/>
 </p>
 
 #### Repository link [here](https://github.com/Simon834/Makelaar)
