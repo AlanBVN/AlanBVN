@@ -33,6 +33,25 @@ This was my individual project in Henry's bootcamp. I developed this application
 #### Repository link [here](https://github.com/AlanBVN/PI-Videogames)
 
 ---
+### Makelaar
+#### Full Stack Group Project
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white "><img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Sequelize-399AF3?style=flat&logo=sequelize&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> 
+
+
+This was my group project in Henry's bootcamp.
+
+
+<p align="center">
+<img align="center" src="https://i.imgur.com/sp42Cds.jpg" width="45%" />
+<img align="center" src="https://i.imgur.com/wfVAeXp.png" width="45%" />
+<img align="center" src="https://i.imgur.com/oNkh8Gi.png" width="45%" />
+<img align="center" src="https://i.imgur.com/s3uV0BP.png" width="45%" />
+</p>
+
+#### Repository link [here](https://github.com/Simon834/Makelaar)
+
+---
 ## 🚀 Tech / soft skills: 
 
 - React
