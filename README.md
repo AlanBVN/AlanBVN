@@ -43,8 +43,8 @@ This was my group project in Henry's bootcamp.
 
 
 <p align="center">
-<img align="center" src="https://i.imgur.com/WJRxv5q.png" width="45%"/>
-<img align="center" src="https://i.imgur.com/Wu90Kia.png" width="45%"/>
+<img align="center" src="https://i.imgur.com/WJRxv5q.png" width="45%" margin="60px"/>
+<img align="center" src="https://i.imgur.com/Wu90Kia.png" width="45%" margin="60px"/>
 <img align="center" src="https://i.imgur.com/4cH9qi1.png" width="45%"/>
 <img align="center" src="https://i.imgur.com/jTV8gBs.png" width="45%"/>
 <img align="center" src="https://i.imgur.com/pCC9dkx.png" width="45%"/>
