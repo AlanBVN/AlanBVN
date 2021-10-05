@@ -52,6 +52,7 @@ This was my final group project along with other 6 teammates during the last sta
 
 #### Video presentation [here](https://www.youtube.com/watch?v=ymsuwoBvcvI)
 #### Repository link [here](https://github.com/Simon834/Makelaar)
+#### Website link [here](https://makelaar.vercel.app)
 
 ---
 ## 🚀 Tech / soft skills: 
