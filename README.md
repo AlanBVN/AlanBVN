@@ -39,8 +39,7 @@ This was my individual project in Henry's bootcamp. I developed this application
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white "><img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Sequelize-399AF3?style=flat&logo=sequelize&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> 
 
 
-This was my group project in Henry's bootcamp.
-
+This was my final group project along with other 6 teammates during the last stage on Henry's Bootcamp. Makelaar is a real estate agency where we have to develop a general management system. This lets the agency take control over all their properties, contracts, payments, and balances, either a specific client or a general summary. The client also has the chance to login into the website and make rent payments (using Mercado Pago) or some miscellaneous ones. In this project, we work using agile methodologies such as SCRUM and GIT as versions controllers. I worked on the Front-end and also in the Back-end, whereas it was something challenging to me have worked with new frameworks as Material-UI and externals APIs such as Google Places. Besides that, I was also able to reinforce my knowledge in Node, React, Redux, Sequelize, Express, CSS, PostgreSQL and I got experience handling relational databases.
 
 <p align="center">
 <img align="center" src="https://i.imgur.com/WJRxv5q.png" width="45%" style="margin:10px"/>
